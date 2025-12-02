@@ -1,0 +1,5 @@
+{
+  "name": "AI Font Maker",
+  "description": "A professional web-based font editor enabling users to view, edit, and transform font glyphs using algorithmic modifiers and Gemini AI.",
+  "requestFramePermissions": []
+}
